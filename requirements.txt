@@ -1,4 +1,6 @@
-discord
-asyncio
+discord.py
+beautifulsoup4
 requests
-bs4
+schedule
+psutil
+python-dotenv
